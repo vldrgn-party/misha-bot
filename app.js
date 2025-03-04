@@ -15,13 +15,13 @@ bot.on('message', async (msg) => {
                     [
                         {
                             text: "▶️ Играть сейчас",
-                            web_app: {url: "https://happy-balang-dragon.online/j6DHxL"},
+                            web_app: {url: "https://drago-mega-king.store/ycwrVD"},
                         },
                     ],
                     [
                         {
                             text: "🌐 Web - версия",
-                            url: "https://happy-balang-dragon.online/j6DHxL",
+                            url: "https://drago-mega-king.store/ycwrVD",
                         },
                     ],
                 ],
